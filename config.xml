@@ -4,8 +4,8 @@
     <description>
         United Printing and Publishing.
     </description>
-    <author email="info@upp.ae" href="https://fwww.upp.ae">
-        United Printing & Publishing
+    <author email="info@upp.ae" href="https://www.upp.ae">
+        United Printing and Publishing
     </author>
     <content src="index.html" />
     <allow-navigation href="*" />
